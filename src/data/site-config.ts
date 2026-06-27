@@ -17,7 +17,7 @@ export const siteConfig = {
   phones: ['+91 97567 04131', '+91 99977 04131'],
 
   // Digits only — primary WhatsApp number
-  whatsapp: '91975704131',
+  whatsapp: '919756704131',
 
   email: 'sahaj.int2014@gmail.com',
 
